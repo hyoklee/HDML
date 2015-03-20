@@ -9,4 +9,4 @@ Here are a few example data sources:
 3. src=”mysql://host:3306/user:password/SQLstatement”
 4. src=”hdfs://node:8020/user/hadoop/…”
 5. src=”s3://landsat-pds/L8/003/017/LC…” for Amazon S3
-6. src=”opendap://acdisc.sci.gsfc.nasa.gov/opendap/ncml/Aqua_AIRS_Level3/AIRH3ST8.005/2002/AIRS.2002.09.01.L3.RetStd_H008.v5.0.14.0.G07183213133.hdf.ncml.ascii?TotalCounts_A[0:100:179][0:100:359]”
+6. src=”opendap://acdisc.sci.gsfc.nasa.gov/opendap/ncml/Aqua_AIRS_Level3/AIRH3ST8.005/2002/AIRS.2002.09.01.L3.RetStd_H008.v5.0.14.0.G07183213133.hdf.ncml.ascii?TotalCounts_A[0][3]”
