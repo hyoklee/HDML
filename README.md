@@ -2,6 +2,8 @@
 
 This is a project for augmenting/subsetting/aggregating data freely from multiple data sources such as MS Excel, DB, Hadoop, and other binary formats such as netCDF. The development goal is to make HDML as the DNA of all data - simple, elegant, and universal. 
 
+HTML5 provides data tag. HDML expands it with src attribute.  
+
 Here are a few example data sources:
 
 1. src=”hdf4://AIRS.hdf/path/to/dset[0:2:4, 0:3:6]” You can replace hdf4 to hdf5/netcdf/geotiff.
