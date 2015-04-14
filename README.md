@@ -14,5 +14,5 @@ Here are a few example data sources:
 6. src=”opendap://acdisc.sci.gsfc.nasa.gov/opendap/ncml/Aqua_AIRS_Level3/AIRH3ST8.005/2002/AIRS.2002.09.01.L3.RetStd_H008.v5.0.14.0.G07183213133.hdf.ncml.ascii?TotalCounts_A[0][3]”
 7. src="random" (Fill with random values)
 8. src="_FillValue" (Fill data with fill value)
-9. src="ascending/descending" (Fill data with monotonically increasing values that datatype allows. Repeat when overflow occurs)
+9. src="increasing" or "decreasing" (Fill data with monotonically increasing values that datatype allows. Repeat when overflow occurs)
 
