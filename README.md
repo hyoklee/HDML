@@ -17,4 +17,5 @@ Here are a few example data sources:
 7. src="random" (Fill with random values)
 8. src="_FillValue" (Fill data with fill value)
 9. src="increasing" or "decreasing" (Fill data with monotonically increasing values that datatype allows. Repeat when overflow occurs)
+10. src="ipfs://..."?
 
