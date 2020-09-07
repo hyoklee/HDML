@@ -1,4 +1,4 @@
-# Hyper-Data Markup Language
+# Hyper-Data Markup Language - Data for Everyone
 
 HDML is a language for data virtualization. HTML has allowed us to compose texts and images freely and present them through web browser. So, why not for data?
 
