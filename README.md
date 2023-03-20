@@ -1,6 +1,10 @@
 # Hyper-Data Markup Language
 HDML is a language for data virtualization. HTML has allowed us to compose texts and images freely and present them through web browser. So, why not for data?
 
+## Easy to Create Dashboard
+
+HDML makes Dashboard creation as easy as publishing an HTML web page.
+
 ## Data for Everyone
 
 This is a project for augmenting, subsetting, and aggregating data freely from multiple data sources such as MS Excel, DB, Parquet on Hadoop Distributed File System (HDFS) or AWS S3, and other binary formats such as netCDF. The development goal is to make HDML as the DNA of all data - simple, elegant, and universal. 
